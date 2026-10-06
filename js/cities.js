@@ -1,0 +1,74 @@
+// Replace a city image path and imageAlt below when adding your own travel photos.
+// Coordinates are approximate city centres, not a travel route or exact visited locations.
+window.visitedCities = [
+  {
+    "id": "ankara",
+    "name": "Ankara",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "region": "Central Anatolia",
+    "note": "The capital, at the heart of Anatolia.",
+    "image": "images/cities/ankara.jpeg",
+    "imageAlt": "Travel photo from Ankara"
+  },
+  {
+    "id": "izmir",
+    "name": "İzmir",
+    "lat": 38.4237,
+    "lon": 27.1428,
+    "region": "Aegean",
+    "note": "A coastal city on the Aegean Sea.",
+    "image": "images/cities/izmir.jpeg",
+    "imageAlt": "Travel photo from İzmir"
+  },
+  {
+    "id": "istanbul",
+    "name": "İstanbul",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "region": "Marmara",
+    "note": "A city spanning the Bosphorus.",
+    "image": "images/cities/istanbul.jpeg",
+    "imageAlt": "Travel photo from İstanbul"
+  },
+  {
+    "id": "antalya",
+    "name": "Antalya",
+    "lat": 36.8969,
+    "lon": 30.7133,
+    "region": "Mediterranean",
+    "note": "Where the Mediterranean meets the Taurus Mountains.",
+    "image": "images/cities/antalya.jpeg",
+    "imageAlt": "Travel photo from Antalya"
+  },
+  {
+    "id": "mugla",
+    "name": "Muğla",
+    "lat": 37.2153,
+    "lon": 28.3636,
+    "region": "Aegean",
+    "note": "A gateway to the southwestern coast.",
+    "image": "images/cities/mugla.jpeg",
+    "imageAlt": "Travel photo from Muğla"
+  },
+  {
+    "id": "eskisehir",
+    "name": "Eskişehir",
+    "lat": 39.7667,
+    "lon": 30.5256,
+    "region": "Central Anatolia",
+    "note": "An Anatolian city along the Porsuk River.",
+    "image": "images/cities/eskisehir.jpeg",
+    "imageAlt": "Travel photo from Eskişehir"
+  },
+  {
+    "id": "nevsehir",
+    "name": "Nevşehir",
+    "lat": 38.6244,
+    "lon": 34.7239,
+    "region": "Central Anatolia",
+    "note": "A starting point for exploring Cappadocia.",
+    "image": "images/cities/nevsehir.jpeg",
+    "imageAlt": "Travel photo from Nevşehir"
+  }
+];
